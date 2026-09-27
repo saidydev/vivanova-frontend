@@ -97,7 +97,7 @@ export default function Portfolio() {
           <div className="absolute inset-0 bg-linear-to-r from-[#0f172a]/95 via-[#1e293b]/85 to-transparent"></div>
 
           <div className="relative z-10 mt-6 flex flex-col items-start gap-4 w-full md:w-4/5 lg:w-3/5 text-white py-12">
-            <span className="bg-amber-500/10 backdrop-blur-md border border-amber-500/30 text-[#ffff] text-xs md:text-sm font-semibold tracking-wider uppercase px-3.5 py-1.5 rounded-sm shadow-xs">
+            <span className="bg-amber-500/10 backdrop-blur-md border mt-10 border-amber-500/30 text-[#ffff] text-xs md:text-sm font-semibold tracking-wider uppercase px-3.5 py-1.5 rounded-sm shadow-xs">
               VIVANOVA PROVEN TRACK RECORD
             </span>
 
